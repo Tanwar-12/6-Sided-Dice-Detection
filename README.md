@@ -22,6 +22,7 @@
   * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
   * Prepare folder structure that can be accept by YoloV5.
   ![train folders](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/69b19a8e-2f81-4d9b-a762-ffa73ac59be1)
+
 ## STEPS TO USE YOLOV5: 
 * Cloning the YoloV5 file from official repository.
 * Changing the directory of yolov5
@@ -40,6 +41,9 @@
 * Set images size 640 with batch of 8.
 * Train model around 100 epochs .
 * Visualise the training metrics with the help of tensorboard.
+  ## RESULT
+  ![image](https://github.com/user-attachments/assets/c1303278-3e36-4a69-8770-5e5d3fa43e74)
+
 
  ## TESTING IMAGES USING TEST DATA:
  ![image](https://github.com/user-attachments/assets/250ee635-9e99-47d5-b1e0-06580c008ff0)
