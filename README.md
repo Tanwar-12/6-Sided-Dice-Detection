@@ -1,4 +1,4 @@
-# SIX DICE DETECTION USING YOLOv5
+# INNOVATIVE IMAGE RECOGNITION FOR GAMING ENHANCEMENTS: ADVANCED SIX DICE DETECTION USING YOLOv5
 ## OBJECTIVE
 **Implement a robust computer vision system using YOLOv5 to accurately detect and recognize dice in images, specifically focusing on scenarios where there are six dice**.
 
