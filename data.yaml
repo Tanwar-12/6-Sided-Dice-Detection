@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/Dice_Dataset/train/images
+val: /content/drive/MyDrive/Dice_Dataset/valid
+test: /content/drive/MyDrive/Dice_Dataset/test
+
+nc: 6
+names: ['1', '2', '3', '4', '5', '6']
+
+roboflow:
+  workspace: dice-7xpee
+  project: deice-detect
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dice-7xpee/deice-detect/dataset/3
