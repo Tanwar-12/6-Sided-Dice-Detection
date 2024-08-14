@@ -46,7 +46,7 @@
 
  ## TESTING VIDEO DEMO :
  
-https://github.com/Tanwar-12/6-Sided-Dice-Detection/blob/main/Dice_Detected.mp4
+ https://github.com/Tanwar-12/6-Sided-Dice-Detection/blob/main/Dice_Detected.mp4
 
 
 
