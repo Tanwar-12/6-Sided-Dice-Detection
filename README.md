@@ -15,7 +15,7 @@
 
 ## TASK: OBJECT DETECTION
 
-# WORKFLOW:
+## WORKFLOW:
   ## Data Preparation:
   * Total 594 images with 6 class
   * For training 519 Images,testing 26,validation 49
